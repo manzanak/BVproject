@@ -29,8 +29,8 @@ classification.csv -- Original taxonomical classification for identified OTUs fr
 
 In figures folder:
 
-BVnetworks_example_result.png -- Example graphs created from running BVnetworks.py
-BVrfc_example_result.png -- Example graphs created from running BVrfc.py
+- BVnetworks_example_result.png -- Example graphs created from running BVnetworks.py
+- BVrfc_example_result.png -- Example graphs created from running BVrfc.py
 
 ## Packages 
 pandas version: 2.2.2
