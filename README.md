@@ -18,14 +18,13 @@ The taxonomic classifacation dataset is the original provided by Hummelen et al.
 
 In code folder:
 
-BVnetworks.py -- Python script to run in terminal to create the networks and extract network features.
-BVrfc.py -- Python script to run in terminal that creates the random forest classifier and evaluate performance.
+- BVnetworks.py -- Python script to run in terminal to create the networks and extract network features.
+- BVrfc.py -- Python script to run in terminal that creates the random forest classifier and evaluate performance.
 
 In datasets folder: 
 
-diagnosis_data.csv -- Edited dataset from Hummelen et al. (2010) containing initial and follow-up tests (Amsel score, Nugent score, pH, OTUs, etc.) with added features BV status (1 = positive, 0 = negative) and Recurrence Type (Resistant, Immediate, Delayed, Successful). 
-
-classification.csv -- Original taxonomical classification for identified OTUs from Hummelen et al. (2010). 
+- diagnosis_data.csv -- Edited dataset from Hummelen et al. (2010) containing initial and follow-up tests (Amsel score, Nugent score, pH, OTUs, etc.) with added features BV status (1 = positive, 0 = negative) and Recurrence Type (Resistant, Immediate, Delayed, Successful). 
+- classification.csv -- Original taxonomical classification for identified OTUs from Hummelen et al. (2010). 
 
 In figures folder:
 
