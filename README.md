@@ -28,8 +28,13 @@ In datasets folder:
 
 In figures folder:
 
-- BVnetworks_example_result.png -- Example graphs created from running BVnetworks.py
-- BVrfc_example_result.png -- Example graphs created from running BVrfc.py
+Various figures produced by running the python scripts.
+- immediate_recurr_network.png -- Network created from immediate recurrent patients.
+- toptaxa_predicting_recurrence.png -- Side bar graph of top taxa predicting imminent BV recurrence.
+- ROC_curve.png -- ROC curve for imminent recurrence prediction.
+- confusion_matrix.png -- Confusion matrix for imminent recurrence prediction.
+- topOTUs_enriched_remission.png -- Top OTUs in remission before recurrence.
+- PCA_baseline -- PCA to baseline microbiome composition.
 
 ## Packages 
 pandas version: 2.2.2
@@ -46,5 +51,3 @@ You can run the script from the terminal by following the steps below.
 
 ## Dataset Source
 Hummelen, R., Fernandes, A. D., Macklaim, J. M., Dickson, R. J., Changalucha, J., Gloor, G. B., & Reid, G. (2010). Deep Sequencing of the Vaginal Microbiota of Women with HIV. PLOS ONE, 5(8), e12078. https://doi.org/10.1371/journal.pone.0012078 
-
-
